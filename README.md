@@ -1,4 +1,4 @@
-casperJS-Example
+CasperJS-Example
 ================
 
 Try the casperJS library
